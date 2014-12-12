@@ -6,6 +6,7 @@
 // @description    Manage annotations of Google Analytics profiles (multiple copy, delete and CSV export). Works only on Google Analytics V5.
 // @include        https://www.google.com/analytics/*
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js
+// @require        https://raw.githubusercontent.com/rkittens/jQuery-plugin-fireEvent/master/jquery.fireEvent.js
 // ==/UserScript==
 
 (function() {
